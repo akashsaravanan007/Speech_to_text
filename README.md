@@ -8,3 +8,4 @@ How do I get voice recognition in JavaScript?
 The main JavaScript code which is listening to what user speaks and then converting it to text is this:
 // new speech recognition object var SpeechRecognition = SpeechRecognition || webkitSpeechRecognition; var recognition = new SpeechRecognition();
 // This runs when the speech recognition service starts recognition.
+
