@@ -1,0 +1,32 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button {
+    padding: 10px;
+    background-color: #e84393;
+    color: #FFFFFF;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#output {
+    background-color: #dfe6e9;
+    padding: 10px;
+    width: 90%;
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+p
+{
+    font-size: large;
+}
